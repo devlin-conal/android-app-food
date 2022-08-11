@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Menu App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="restaurant">Restaurantes</string>
+    <string name="category">Cozinhas</string>
+    <string name="favorites">Restaurantes Favoritos</string>
+    <string name="favorite_food">Pratos Favoritos</string>
+    <string name="wizzard">Tutorial</string>
+    <string name="exit">Sair</string>
+
+    <!--Home Activity-->
+    <string name="welcome_title">MY-APP</string>
+    <string name="welcome_sign_to_continue">Đăng nhập để tiếp tục</string>
+    <string name="welcome_email_or_username">Email hoặc username</string>
+    <string name="welcome_password">Mật khẩu</string>
+    <string name="welcome_login_button">LOGIN</string>
+    <string name="welcome_fb_login_button">FACEBOOK LOGIN</string>
+    <string name="welcome_forgot_password">Quên mật khẩu?</string>
+    <string name="welcome_dont_have_account">Chưa có tài khoản? Đăng kí.</string>
+
+    <!--Home Activity-->
+    <string name="home_categories">Danh mục</string>
+    <string name="home_places">Nhà hàng</string>
+    <string name="home_view_all">Xem thêm</string>
+    <string name="home_search">Tìm kiếm</string>
+    <string name="home_toolbar">Xin chào</string>
+    <string name="home_filter">Lọc</string>
+
+    <!--Place Activity-->
+    <string name="place_delivery">Vận chuyển</string>
+    <string name="place_open_time">Lịch trình</string>
+    <string name="place_contact">Liên hệ</string>
+    <string name="place_featured">Nhấn mạnh</string>
+    <string name="place_menu">MENU</string>
+
+
+    <!--Item Details Activity-->
+    <string name="item_details_extra_title">Thêm</string>
+    <string name="item_details_extra_obs">Thêm ghi chú ...</string>
+    <string name="item_details_extra_hint">Ví dụ: Bỏ hành tây, mayonnaise, nước chấm, ...</string>
+    <string name="item_details_description">Mô tả</string>
+    <string name="item_details_add_to_order">Yêu cầu</string>
+
+    <!--Profile Activity-->
+    <string name="profile_toolbar">Hồ sơ</string>
+    <string name="profile_edit">Chỉnh sửa</string>
+    <string name="profile_account_credits">Credit</string>
+    <string name="profile_favorite_foods">Món ăn ưa thích</string>
+    <string name="profile_favorite_restaurants">Nhà hàng yêu thích</string>
+
+    <!--Favorite Foods Activity-->
+    <string name="fav_food_toolbar">MÓN ĂN ƯA THÍCH</string>
+    <string name="fav_food_title">Món ăn ưa thích</string>
+
+    <!--Favorite Restaurants Activity-->
+    <string name="fav_place_toolbar">NHÀ HÀNG YÊU THÍCH</string>
+    <string name="fav_place_title">Nhà hàng yêu thích</string>
+
+    <!--Restaurants List Activity-->
+    <string name="places_list_toolbar">NHÀ HÀNG</string>
+    <string name="places_list_title">Nhà Hàng</string>
+
+    <!--Categories List Activity-->
+    <string name="categories_list_toolbar">DANH MỤC</string>
+    <string name="categories_list_title">Danh mục</string>
+    <string name="categories_list_contact">Có một danh mục để đề xuất? Liên hệ chúng tôi!</string>
+
+    <!--Menu-->
+    <string name="menu_home">Bắt đầu</string>
+    <string name="menu_discover">Tìm kiếm</string>
+    <string name="menu_favorite">Sở thích</string>
+    <string name="menu_profile">Hồ sơ</string>
+
+    <!--Ask for food-->
+    <string name="ask_for_food_begin">Xin chào! Tôi muốn đặt một cái</string>
+    <string name="ask_for_food_extras">với sự bổ sung của: </string>
+
+</resources>
